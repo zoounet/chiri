@@ -1,16 +1,15 @@
 ---
-title: 'About'
+title: "关于我"
 ---
 
-<!--
-This content will be displayed at the top of the index page.
-You can leave this empty if you don’t want to show any content.
--->
+# 一代文妖
 
-A static blog theme based on [Astro](https://astro.build), designed for clarity and focus.
+一个记录孤独、理想与命运的文字世界。
 
-With a deliberately minimal design, this layout ensures your content takes center stage. It's built for flexibility, offering customization options that honor its clean and elegant aesthetic.
+我出生在中原的贫困县城，写作是与世界对话的方式。  
+这不是故事，而是一生。
 
-Effortlessly share your thoughts in _a calm & dustless space._
+> 生命短暂，但文字能延伸至永恒。
 
-Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri).
+在这里，你会读到关于成长、爱情、时代与命运的真实片段。  
+更多内容请访问 [web.zoou.net](https://web.zoou.net)
